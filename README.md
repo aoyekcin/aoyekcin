@@ -22,6 +22,8 @@ Before moving into IT operations, I spent nearly a decade running my own e-comme
 
 **[IT Operations Runbooks](https://github.com/aoyekcin/it-ops-runbooks)** — practical runbooks and templates for IT operations and incident management: severity and escalation matrices, store POS and network outage runbooks, payment error spike triage, Kibana log investigation, postmortem and change request templates, and SLA/FCR metric definitions.
 
+**[IT Operations PowerShell Toolkit](https://github.com/aoyekcin/it-ops-powershell)** — PowerShell scripts for everyday IT operations: Active Directory onboarding and offboarding, stale computer cleanup, Microsoft 365 license review, Intune compliance reporting, and multi-site connectivity checks. Every change-making script supports `-WhatIf`.
+
 ### 🧰 Tools & technologies
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
