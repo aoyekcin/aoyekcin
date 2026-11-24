@@ -15,10 +15,12 @@ Before moving into IT operations, I spent nearly a decade running my own e-comme
 - **Retail & Payment Systems** — Virtual POS, POS / checkout systems, multi-country rollouts across 500+ stores
 - **AI & Automation** — Claude Code, workflow automation, prompt engineering, rapid prototyping
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 **[Crewlyne](https://crewlyne.com)** — a field service & maintenance management platform for HVAC, industrial cooling and facility maintenance teams. Office staff schedule work orders and check customer/device history; technicians log jobs, parts and photos from their phones and generate PDF service reports on the spot.
 → [Project overview](https://github.com/aoyekcin/crewlyne) · [crewlyne.com](https://crewlyne.com)
+
+**[IT Operations Runbooks](https://github.com/aoyekcin/it-ops-runbooks)** — practical runbooks and templates for IT operations and incident management: severity and escalation matrices, store POS and network outage runbooks, payment error spike triage, Kibana log investigation, postmortem and change request templates, and SLA/FCR metric definitions.
 
 ### 🧰 Tools & technologies
 
