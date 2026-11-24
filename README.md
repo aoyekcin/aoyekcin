@@ -4,6 +4,8 @@
 
 I've spent the last 6+ years keeping payment platforms and retail IT operations (500+ stores) running smoothly — 24/7 monitoring, incident response, and day-to-day infrastructure support. These days I monitor live Virtual POS and payment traffic at **RoofStacks**, and I build practical automation tools and side products with AI-assisted development.
 
+Before moving into IT operations, I spent nearly a decade running my own e-commerce business and working in software consulting and web management — which shaped how I think about ownership, customers, and keeping operations running.
+
 ---
 
 ### 🛠️ What I work on
